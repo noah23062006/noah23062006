@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<div class="container">
+
+
+ <html>
+
+
+ <head>
+     <title>Carrossel</title>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+     <style>
+         .carousel-inner img {
+             width: 100%;
+             height: 300px;
+         }
+     </style>
+ </head>
+  <body>
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+         <!-- Indicators -->
+         <ol class="carousel-indicators">
+             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+             <li data-target="#myCarousel" data-slide-to="1"></li>
+             <li data-target="#myCarousel" data-slide-to="2"></li>
+         </ol>
+          <!-- Slides -->
+         <div class="carousel-inner">
+             <div class="item active">
+                 <img src="imagem1.jpg" alt="Imagem 1">
+             </div>
+             <div class="item">
+                 <img src="imagem2.jpg" alt="Imagem 2">
+             </div>
+             <div class="item">
+                 <img src="imagem3.jpg" alt="Imagem 3">
+             </div>
+         </div>
+          <!-- Controls -->
+         <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+             <span class="glyphicon glyphicon-chevron-left"></span>
+         </a>
+         <a class="right carousel-control" href="#myCarousel" data-slide="next">
+             <span class="glyphicon glyphicon-chevron-right"></span>
+         </a>
+     </div>
+  </body>
+  </html>
+
+
+
+
+
+
+
+
+
+
+
+
+ <input type="checkbox" id="menu" class="container_botao">
+ <label for="menu"> <span class="cabeçalho_menu-hamburguer container_imagem"></span>
+ </label>
+  <ul class="lista-menu">
+    <li class="lista-menu_titulo" style="color: rgb(255, 255, 255);">Categorias</li>
+  <li class="lista-menu_item"> <a href="https://www.youtube.com/watch?v=SbNVIPAABgw" class="lista-menu_link" style="color: rgb(255, 255, 255);">Rock and Roll</a>
+ </li>
+
+
+
+
+
+
+
+
+ <li class="lista-menu_item">
+ <a href="https://www.youtube.com/watch?v=IpwHB2U3J1s&list=RDQMOEiq8I343Ag&start_radio=1" class="lista-menu_link" style="color: rgb(255, 255, 255);">Anos 90</a>
+ </li>
+
+
+
+
+
+
+
+
+ <li class="lista-menu_item">
+ <a href="https://www.youtube.com/watch?v=OIHdU7eG9-k" class="lista-menu_link" style="color: rgb(255, 255, 255);">Indie</a>
+  </li>
+  <li class="lista-menu_item">
+ <a href="https://www.youtube.com/watch?v=K2GBbguLbeg" class="lista-menu_link" style="color: rgb(255, 255, 255);">Pesado</a>
+  </li>
+  <li class="lista-menu_item">
+  <a href="https://www.youtube.com/watch?v=YvrGRpSpnX8" class="lista-menu_link" style="color: rgb(255, 255, 255);">Clássico</a>
+ </li>
+ </ul>
+ <img src="Captura de tela_2023-05-26_11-36-53.png" alt="guitar hero" class="container_imagem
+</div>
+</div class="container">
+
+
+
+
+
+
+
+
+<html>
+<head>
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="styles/style.css"/>
+<title><p style="color: rgb(255, 255, 255);">O MELHOR ESTILO MUSICAL</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+<h1 style="text-align: center;" style="color: rgb(255, 255, 255);">FATOS SOBRE O ROCK</h1>
+<img src="imagens.jpeg">
+<h2 style="text-align: center;">
+ ROCK AND ROLL
+</h2>
+<h3 style="text-align: center;">
+ Caracteristicas do rock
+</h3>
+<h4 style="text-align: center;">
+  <p style="color: rgb(255, 255, 255);">Entre sua características principais estão a predominância de uma base rítmica constante e repetitiva;</p>
+ <p><p style="color: rgb(255, 255, 255);"> a segunda é a utilização da música de uma forma emocional e espiritual. </p></h4>
+<p>
+ <h5 style="text-align: center;" style="color: rgb(255, 255, 255);">Qual é a origem do rock?
+   Rock: a origem e história do Rock and Roll
+  O surgimento do rock aconteceu nos EUA como consequência da mistura de outros estilos musicais, com enfoque no jazz, folk,
+   country e rhythm and blues. As primeiras experimentações ocorreram ainda na década de 40, sobretudo em seus últimos anos,
+    mas foi nos anos 50 que a vertente ganhou contornos mais nítidos.
+ </h5></p>
+<body>
+  <h6>
+  *ROCK MUSICS
+  </h6>
+</body>
+<html>
+<body>
+<header>
+    <nav>
+        <a href="https://www.youtube.com/watch?v=SbNVIPAABgw" style="color: rgb(255, 255, 255);">Foo fighter</a>
+        <a href="https://www.youtube.com/watch?v=EFMD7Usflbg" style="color: rgb(255, 255, 255);">Kiss</a>
+        <a href="https://www.youtube.com/watch?v=hTWKbfoikeg" style="color: rgb(255, 255, 255);">Nirvana</a>
+    </nav>
+</header>
+</body>
+</html>
+
+
+
+
+
+
+
+
+<html>
+
+
+
+
+
+
+
+
+  <body>
+   <meta charset="UTF-8">
+   <meta name="viewport">
+  </body>
+</html>
+
+
+
+
+
+
+
+
+<head>
+<style type="text/css">
+:root { --cor-de-fundo : #810000f1; } body { background-color: var(--cor-de-fundo)
+}
+
+
